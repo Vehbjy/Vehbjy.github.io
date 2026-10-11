@@ -1,0 +1,44 @@
+h1,
+h2{
+    font-size: 60px;
+    text-align: center;
+    border: 1px solid black;
+    text-shadow: 3px 3px 1px white;
+}
+
+html{
+  background-color: bisque;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: blanchedalmond;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+a:hover {
+  color: crimson;
+  background-color: aqua;
+  border: 1px solid black;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.caveat-Ummu {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight:700;
+  font-style: normal;
+}
